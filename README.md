@@ -78,12 +78,12 @@ Run:
 
 **📚 Learning Outcomes:**
 
-    Through this project, I practiced:
+  Through this project, I practiced:
     
-    Handling user inputs
+  Handling user inputs
     
-    Using loops and conditions
+  Using loops and conditions
     
-    Performing financial calculations
+  Performing financial calculations
     
-    Structuring a real-world problem into a Python program
+  Structuring a real-world problem into a Python program
