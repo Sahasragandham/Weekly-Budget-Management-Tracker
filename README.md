@@ -2,7 +2,7 @@
 📊 Weekly Budget Tracker
 
 
-📌 Project Overview
+📌 Project Overview:
 
 Weekly Budget Tracker is a Python console-based program designed to help students manage their weekly income and expenses. It calculates total spending, remaining balance, and helps students make smarter financial decisions.
 
@@ -37,7 +37,7 @@ Calculate discounts to find better deals
 
 Analyze their spending patterns
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 
 Python
 
@@ -47,7 +47,7 @@ User input handling
 
 Arithmetic calculations
 
-🚀 Features
+🚀 Features:
 
 Add weekly allowance
 
@@ -61,7 +61,7 @@ Discount calculation support
 
 Simple and user-friendly interface
 
-▶️ How to Run the Program
+▶️ How to Run the Program:
 
 Install Python.
 
@@ -76,7 +76,7 @@ python filename.py
 
 (Replace filename.py with your actual file name.)
 
-📚 Learning Outcomes
+📚 Learning Outcomes:
 
 Through this project, I practiced:
 
