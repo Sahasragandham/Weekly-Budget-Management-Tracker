@@ -1,9 +1,9 @@
 # Weekly-Budget-Management-Tracker
-#📊 Weekly Budget Tracker
-
+**📊 Weekly Budget Tracker**
+----
 
 **📌 Project Overview:**
-
+----
 Weekly Budget Tracker is a Python console-based program designed to help students manage their weekly income and expenses. It calculates total spending, remaining balance, and helps students make smarter financial decisions.
 
 🌍 Real-World Use Case
@@ -11,9 +11,10 @@ Weekly Budget Tracker is a Python console-based program designed to help student
   
   Weekly budget management for students.
 
-  ---
+  
 
 **📖 Scenario:**
+----
 
   A college student receives a fixed ₹ weekly allowance and needs to track spending on:
   
@@ -24,10 +25,10 @@ Weekly Budget Tracker is a Python console-based program designed to help student
   Entertainment
   
   Transportation
-  ---
+  
 
 **❗ Problem Statement:**
-
+----
   Without proper tracking, students often overspend early in the week and run out of money before the week ends.
   
   This program helps them:
@@ -39,10 +40,10 @@ Weekly Budget Tracker is a Python console-based program designed to help student
   Calculate discounts to find better deals
   
   Analyze their spending patterns
-  ----
+  
 
 **🛠️ Technologies Used:**
-
+----
   Python
   
   Loops and conditionals
@@ -52,10 +53,10 @@ Weekly Budget Tracker is a Python console-based program designed to help student
   User input handling
   
   Arithmetic calculations
-  ----
+  
 
 **🚀 Features:**
-
+-----
   Add weekly allowance
   
   Enter multiple expenses
@@ -68,10 +69,10 @@ Weekly Budget Tracker is a Python console-based program designed to help student
   
   Simple and user-friendly interface
   
-  -----
+  
 
 **▶️ How to Run the Program:**
-
+-----
   Install Python.
   
   Clone or download this repository.
@@ -85,10 +86,10 @@ Run:
   
   (Replace filename.py with your actual file name.)
 
-  -----
+  
 
 **📚 Learning Outcomes:**
-
+------
   Through this project, I practiced:
     
   Handling user inputs
